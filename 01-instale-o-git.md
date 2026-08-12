@@ -17,11 +17,14 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!--O git serve para controlar versões de códios ou documentos e ajudar a arrumar conflitos entre versões -->
+
+<!--eu usaria quando fosse necessário manter salvo as modificações de documentos, ou códigos-->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Usar quando for necessário salvar versões ou quando há várias pessoas modificando a mesma coisa -->
+
 
 ---
 
@@ -55,7 +58,7 @@
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
+- [X] 1. GitHub para Windows
 - [ ] 2. GitHub para Mac
 - [ ] 3. Git para todas as plataformas
 
